@@ -1,6 +1,9 @@
-# Angular from Theory to Practice
+# Angular from Theory to Practice, first downloadand vs extension as shown below
 
-This is the official repository for the Angular course on https://angular.codecraft.tv
+https://devblogs.microsoft.com/visualstudio/angular-language-service-for-visual-studio/
+
+
+This is one repository for the Angular course on https://angular.codecraft.tv
 
 - Each folder is a chapter in the book, ordered by prefix number.
 - Each chapter has a subfolder for each lecture, again ordered by prefix number.
